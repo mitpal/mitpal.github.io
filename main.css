@@ -6,5 +6,7 @@ h1, h2, h3, h4, h5 {
   font-family: 'Oswald', sans-serif;
 }
 h1 {
-  font-size: 20vmin;
+  line-height: 10%;
+  font-size: 40vmin;
+  text-align: center;
 }

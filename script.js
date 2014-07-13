@@ -2,9 +2,5 @@ if (!!window.chrome && isOpera; ) {
 
 }
 else {
-    $('#notify').html('I recommend using Chrome or Opera to view my webpage
-    as it is my testground for new Web Platform features').slideDown();
+    window.confirm("mitpal.github.io is best viewed on either Google Chrome or Opera!")
 }
-$('#notify').click(function() {
-    $(this).slideUp().empty();
-});

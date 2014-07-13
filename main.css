@@ -8,16 +8,3 @@ h1, h2, h3, h4, h5 {
 h1 {
   font-size: 100vw;
 }
-#notify {
-    position:relative;
-    width:100%;
-    background-color:black;
-    height:30px;
-    color:white;
-    display:none;
-    text-align:center;
-    padding:5px;
-    font-size:2em;
-    line-height:1em;
-    cursor:pointer;
-}
